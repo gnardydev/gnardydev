@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gnardydev
-- 👀 I’m interested in nothing particuar
-- 🌱 I’m currently learning how to kill myself in a painless way
-- 💞️ I’m looking to collaborate on alien invasion
-- 📫 How to reach me dont prbly crying
+- 👀 I’m interested in so many things i cant even start describing
+- 🌱 I’m currently starting over
+- 💞️ I’m looking to collaborate to upcoming projects
+- 📫 How to reach me ? https://www.linkedin.com/in/gabriel-nardy/ or email me gacnardy@gmail.com
 
 
 <!---
