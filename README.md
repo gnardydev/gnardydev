@@ -19,5 +19,6 @@
   <a href = "mailto:gacnardy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-nardy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/gnardydev)
+ ![Snake animation](https://github.com/gnardydev/gnardydev/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
