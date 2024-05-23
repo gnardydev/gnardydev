@@ -2,8 +2,7 @@
 <div align="center">
 <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnardydev" alt="Gift's LangStat" />
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=gnardydev&theme=dark&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background"/>
-</div>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
 </div>
  
 <div style="display: inline_block"><br>
