@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnardydev&layout=compact&langs_count=7&theme=dark"/>
 <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnardydev" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
  
