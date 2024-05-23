@@ -2,7 +2,7 @@
 <div align="center">
 <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnardydev" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&layout=compact&langs_count=7&theme=dark"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
  
