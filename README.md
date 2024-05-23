@@ -1,7 +1,7 @@
 ## Meu nome é Gabriel
 <div align="center">
 <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gnardydev&theme=dark" alt="Gift's LangStat" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnardydev&hide=contribs,prs" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
 </div>
  
