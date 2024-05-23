@@ -1,8 +1,5 @@
 ## Meu nome é Gabriel
 <div align="center">
-  <a href="https://github.com/gnardydev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gnardydev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnardydev&layout=compact&langs_count=7&theme=dark"/>
 <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnardydev" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&layout=compact&langs_count=7&theme=dark"/>
