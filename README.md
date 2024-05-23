@@ -1,7 +1,7 @@
 ## Meu nome é Gabriel
 <div align="center">
 <div style="display: inline_block"><br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnardydev&show_icons=true&theme=dracula" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
 </div>
  
