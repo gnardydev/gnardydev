@@ -1,10 +1,10 @@
 ## Meu nome é Gabriel
 <div align="center">
 <div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnardydev&hide=contribs,prs" />
+   
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
 </div>
- 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnardydev&hide=contribs,prs" />
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
