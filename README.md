@@ -6,14 +6,17 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnardydev&theme=tokyonight&hide_border=true" alt="gnardydev's Streak" height="165">
   </p>
 </div>
-   <div style="display: inline_block"><br>
-     <img align="center" alt="Gabriel-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-     <img align="center" alt="Gabriel-Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-     <img align="center" alt="Gabriel-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-     <img align="center" alt="Gabriel-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-   </div>  
-   <div>
-     <a href = "mailto:gacnardy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/gabriel-nardy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   </div>
+<div class="badges-intro">
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=#DD0031)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=#777BB4)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&logoColor=#21759B)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=#CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=#7952B3)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=#FFCA28)
+
+</div>
