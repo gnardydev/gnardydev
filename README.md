@@ -1,5 +1,5 @@
 ## Meu nome é Gabriel
-<div align="center">
+
 <div class="badges-githubstats">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gnardydev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="gnardydev's Stats" height="165">
@@ -16,4 +16,4 @@
      <a href = "mailto:gacnardy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/gabriel-nardy/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    </div>
-</div>
+
