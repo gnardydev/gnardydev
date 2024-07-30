@@ -4,7 +4,7 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=gnardydev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="gnardydev's Stats" height="165">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnardydev&theme=tokyonight&hide_border=true" alt="gnardydev's Streak" height="165">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Gift's language" height="192px"  width="500px"/>
   </p>
 </div>
 <div class="badges-intro">
