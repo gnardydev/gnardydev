@@ -1,4 +1,4 @@
-## Meu nome é Gabriel
+## Meu nome é Gabriel e sou desenvolvedor
 
 <div class="badges-githubstats">
   <p align="center">
