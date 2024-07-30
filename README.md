@@ -1,9 +1,11 @@
 ## Meu nome é Gabriel
 <div align="center">
-   <div style="display: inline_block"><br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=gnardydev&show_icons=true&theme=dracula" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnardydev&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Gift's language" height="192px"  width="500px"/>
-   </div>
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=gnardydev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="gnardydev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gnardydev&theme=tokyonight&hide_border=true" alt="gnardydev's Streak" height="165">
+  </p>
+</div>
    <div style="display: inline_block"><br>
      <img align="center" alt="Gabriel-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
      <img align="center" alt="Gabriel-Flutter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
