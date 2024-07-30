@@ -12,6 +12,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![.NET](https://img.shields.io/badge/-.NET%206.0-blueviolet)
-![React](https://shields.io/badge/react?logo=react&style=for-the-badge)
+
 
 </div>
