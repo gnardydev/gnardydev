@@ -10,5 +10,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=#F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 
 </div>
