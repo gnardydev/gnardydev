@@ -2,7 +2,6 @@
 
 <div class="badges-githubstats">
   <p align="center">
-  width="500px"/>
   </p>
 </div>
 <div class="badges-intro">
