@@ -7,7 +7,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gnardydev&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
---- 
+ 
 ## Tecnologias e Linguagens
   
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
